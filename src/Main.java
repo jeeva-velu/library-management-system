@@ -9,11 +9,11 @@ public class Main {
     public static void main(String[] args) {
 
         Library library = new Library();
-        HorrorBooks horrorBook1 = new HorrorBooks("12","Devil","Surya",true,5);
-        HorrorBooks horrorBooks2  = new HorrorBooks("13","Ghost","Danny",true,4);
+        HorrorBooks horrorBook1 = new HorrorBooks("12", "Devil", "Surya", true, 5);
+        HorrorBooks horrorBooks2 = new HorrorBooks("13", "Ghost", "Danny", true, 4);
 
-        HumourBooks humourBook1 = new HumourBooks("1","Funny","Rohit",true);
-        HumourBooks humourBooks2 = new HumourBooks("2","Smily","Karthi",true);
+        HumourBooks humourBook1 = new HumourBooks("1", "Funny", "Rohit", true);
+        HumourBooks humourBooks2 = new HumourBooks("2", "Smily", "Karthi", true);
 
         //Adding the books in the library.
 
